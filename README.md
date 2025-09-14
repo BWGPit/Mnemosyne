@@ -1,5 +1,6 @@
 # Mnemosyne
 _A desktop companion featuring the GUI version of Password manager_
+
 This program is named after the mythical mother of the nine Muses, whose name means "memory" in ancient Greek.
 **Features**
 + Real time clock
