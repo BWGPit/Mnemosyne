@@ -11,7 +11,7 @@ This program is named after the mythical mother of the nine Muses, whose name me
 + Persistent TODO list
 ## Initial setup
 ### Password manager
-Setup the .env file found in the /gestoreP folder as described in its CLI version's instructions that can be found in the [Github page](https://github.com/BWGPit/Password-manager)
+Setup the `.env` file found in the `/gestoreP` folder as described in its CLI version's instructions that can be found in the [Github page](https://github.com/BWGPit/Password-manager)
 ### Wallpapers
 Wallpapers change dinamically every 30 minutes; do add wallpapers, just drop them in PNG format inside the main folder, like `wallpaper.png` here
 ## Note
